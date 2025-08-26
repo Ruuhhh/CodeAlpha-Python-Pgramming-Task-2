@@ -1,3 +1,8 @@
+# chatbot.py
+# Author: Rutuja Wankhede
+# Date: 2025-08-26
+# Description: Simple rule-based chatbot for task 2
+
 import time
 import random
 
@@ -37,3 +42,4 @@ def chatbot():
 
 if __name__ == "__main__":
     chatbot()
+
